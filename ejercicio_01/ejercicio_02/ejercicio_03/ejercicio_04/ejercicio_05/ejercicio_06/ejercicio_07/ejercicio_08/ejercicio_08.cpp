@@ -35,4 +35,6 @@ int main() {
     cout << "Transacciones: " << transacciones;
     return 0;
 }
+
+feat: resuelto ejercicio 08 - simulador de cajero ATM
 }
