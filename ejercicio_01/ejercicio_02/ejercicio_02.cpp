@@ -31,3 +31,6 @@ int main() {
 
     return 0;
 }
+
+feat: resuelto ejercicio 02 - clasificador de triangulos
+
