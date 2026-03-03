@@ -17,3 +17,5 @@ int main() {
 
     return 0;
 }
+
+feat: resuelto ejercicio 01 - conversor de temperatura
