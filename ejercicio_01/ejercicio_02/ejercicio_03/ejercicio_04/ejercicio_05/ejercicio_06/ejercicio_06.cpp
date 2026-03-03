@@ -23,3 +23,5 @@ int main() {
 
     return 0;
 }
+
+feat: resuelto ejercicio 06 - swap con tres metodos
