@@ -38,4 +38,4 @@ int main() {
 }
 
 feat: resuelto ejercicio 10 - mini motor de reglas de negocio
-}
+
