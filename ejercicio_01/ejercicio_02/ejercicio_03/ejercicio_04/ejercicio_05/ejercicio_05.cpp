@@ -19,3 +19,5 @@ int main() {
 
     return 0;
 }
+
+feat: resuelto ejercicio 05 - sistema de calificaciones
